@@ -33,7 +33,7 @@ Developed as part of hands-on web development practice to demonstrate proficienc
 
 ## 🚀 How to Access
 
-* 🔗 **Live Site**: *\[Add your hosted URL here]*
+* 🔗 **Live Site**: 
 * 💻 **Local Setup**:
 
   1. Clone or download this repository
